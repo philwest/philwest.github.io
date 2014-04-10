@@ -1,6 +1,17 @@
 .header {
 	display: block;
 	height: 100px;
-	background-color: #FFB937
+	background-color: #E88026;
 }
 
+.sidebar {
+	display: inline-block;
+	height: 300px;
+	background-color: #E8A83B;
+}
+
+.contentblock {
+	display: 
+	height: ;
+	background-color: #5574CF;
+}
