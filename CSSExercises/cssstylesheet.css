@@ -1,17 +1,113 @@
 .header {
-	display: block;
-	height: 100px;
-	background-color: #E88026;
+    display: block;
+    height: 100px;
+    background-color: #F2A062;
 }
-
+.logo {
+    display: inline-block;
+    height: 60px;
+    width: 17.6%;
+    background-color: #EB6481;
+    float: left;
+    margin: 15px 0px 15px 15px;
+}
+.navbar {
+    display: inline-block;
+    height: 60px;
+    width: 80%;
+    background-color: #D76A50;
+    float: right;
+    margin: 15px 15px 15px 0px;
+}
 .sidebar {
-	display: inline-block;
-	height: 300px;
-	background-color: #E8A83B;
+    display: inline-block;
+    height: 300px;
+    width: 20%;
+    background-color: #F6BD62;
+    float: left;
 }
-
 .contentblock {
-	display: 
-	height: ;
-	background-color: #5574CF;
+    display: inline-block;
+    height: 300px;
+    width: 80%;
+    background-color: #507088;
+    float: right;
 }
+.main {
+    display: inline-block;
+    height: 440px;
+    width: 100%;
+    background-color: #8EABC0
+}
+.widget {
+    display: inline;
+    height: 180px;
+    width: 180px;
+    float: left;
+    border: 1px;
+    margin: 20px;
+    background-color: #D76A50
+}
+.sub-widget {
+    display: inline;
+    height: 50px;
+    width: 100px;
+    float: left;
+    border: 1px;
+    margin: 20px;
+    background-color: #FFFFFF;
+}
+.widgetblue {
+    display: inline;
+    height: 180px;
+    width: 180px;
+    float: left;
+    border: 1px;
+    margin: 20px;
+    background-color: #507088
+}
+.gadget {
+    display: inline;
+    height: 180px;
+    width: 180px;
+    border: 1px;
+    border-radius: 20px;
+    float: left;
+    margin: 20px;
+    background-color: #EB6481
+}
+.gadgetblue {
+    display: inline;
+    height: 180px;
+    width: 180px;
+    border: 1px;
+    border-radius: 20px;
+    float: left;
+    margin: 20px;
+    background-color: #3A5162
+}
+.footer {
+    display: inline-block;
+    height: 100px;
+    width: 100%;
+    background-color: #B7CE3F;
+    float: right;
+}
+.textinbox {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    color: #FFFFFF;
+    padding: 20px;
+}
+.textinskinnybox {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    color: #FFFFFF;
+    padding: 10px 20px 10px 20px;
+}
+.subwidgettextinbox {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    padding: 5px;
+}
+w
