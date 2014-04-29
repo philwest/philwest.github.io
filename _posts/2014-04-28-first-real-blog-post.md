@@ -4,7 +4,7 @@ title: "Post-Allegiant Air, You For Real Filmed a Game Show on My Plane Blues"
 
 ---
 
-So, a bit fried today -- not because of the Vegas trip I went on, but because of the circumstances around my flight back home. (Rant below, if you like rants.) Wrapping my head around grids. Grids are what I need. I think I'm going to like Foundation. I'm trying to tweak CSS elements in this version of the site just to make sure I make it past the OH MY GOD DON'T BREAK ANYTHING WITH UGLINESS, but in my next step -- and I swear it's happening this week, I'm going to see if I can't do more with adding more elements and making grid prettiness. Maybe I'll add some buttons. 
+So, a bit fried today -- not because of the Vegas trip I went on, but because of the circumstances around my flight back home. (Rant below, if you like rants.) Wrapping my head around grids. Grids are what I need. I think I'm going to like foundation. I'm trying to tweak CSS elements in this version of the site just to make sure I make it past the OH MY GOD DON'T BREAK ANYTHING WITH UGLINESS, but in my next step -- and I swear it's happening this week, I'm going to see if I can't do more with adding more elements and making grid prettiness. Maybe I'll add some buttons. 
 
 And now, for a rant about an airline written on one of its planes: 
 

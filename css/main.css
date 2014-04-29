@@ -1,10 +1,10 @@
-/*****************************************************************************/
-/*
-/* Common
-/*
-/*****************************************************************************/
 
-/* Global Reset */
+*, *:before, *:after {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -13,7 +13,7 @@
 html, body { height: 100%; }
 
 body {
-  background-color: #D1D6BB;
+  background-color: #EEFFEA;
   font: 12px Helvetica, Arial, sans-serif;
   font-size: small;
   text-align: center;
@@ -29,6 +29,10 @@ p { margin: 1em 0; }
 a         { color: #2E1D0D; }
 a:hover   { color: #00B233; }
 a:visited { color: #960F7A; }
+
+.header a {
+  margin-right: 1em;
+}
 
 /*****************************************************************************/
 /*
@@ -70,8 +74,18 @@ a:visited { color: #960F7A; }
   text-decoration: none;
 }
 
+.header:after { 
+    content: "";
+    visibility: hidden;
+    display: block;
+    height: 0;
+    clear: both;
+  }
+
 .title {
   display: inline-block;
+  float: left;
+  padding-right: 5.5em;
   margin-bottom: 2em;
 }
 
@@ -98,14 +112,24 @@ a:visited { color: #960F7A; }
 
 .biobox {
   display: inline-block;
+  width: 65%;
   margin-bottom: 2em;
-  float: left;
+  float: left
+  clear: both;
 }
 
 .photobox {
   display: inline-block;
+  width: 25%;
+  padding-top: 5em;
   margin-bottom: 2em;
   float: right;
+  clear: both;
+}
+
+.photo {
+  border: 1px;
+  border-radius: 100%;
 }
 
 .footer {
