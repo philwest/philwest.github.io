@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Post-Allegiant Air, You For Real Filmed a Game Show on My Plane Blues"
+title: "My First Real Blog Post: The Post-Allegiant Air Flight Nightmare, You Actually For Real Filmed A Game Show On My Plane Blues"
 
 ---
 
