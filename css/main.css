@@ -14,7 +14,7 @@ html, body { height: 100%; }
 
 body {
   background-color: #D1D6BB;
-  font: 12px Futura, Arial, sans-serif;
+  font: 12px Helvetica, Arial, sans-serif;
   font-size: small;
   text-align: center;
 }
@@ -65,6 +65,7 @@ a:visited { color: #960F7A; }
 }
 
 .header a {
+  display: inline-block;
   font-weight: bold;
   text-decoration: none;
 }
